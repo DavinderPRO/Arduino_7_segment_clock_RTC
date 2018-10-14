@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:diecimila",
+    "configuration": "cpu=atmega328",
+    "sketch": "clock_final.ino",
+    "port": "COM3"
+}
