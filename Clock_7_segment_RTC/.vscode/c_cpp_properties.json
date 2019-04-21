@@ -6,6 +6,8 @@
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
                 "C:\\Users\\davinder\\Documents\\Arduino\\libraries",
+                "C:\\Program Files (x86)\\Arduino\\libraries",
+                                
                 "${workspaceFolder}/**"
             ],
             "defines": [

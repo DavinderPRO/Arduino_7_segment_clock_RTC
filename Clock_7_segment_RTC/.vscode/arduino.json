@@ -1,6 +1,7 @@
 {
     "board": "arduino:avr:diecimila",
     "configuration": "cpu=atmega328",
-    "sketch": "clock_final.ino",
-    "port": "COM3"
+    "sketch": "clock_final\\clock_final.ino",
+    "port": "COM7",
+    "programmer": "AVRISP mkII"
 }
