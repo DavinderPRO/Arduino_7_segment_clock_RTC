@@ -1,7 +1,22 @@
+/*
 
-// DS1302:  RST pin    -> Arduino Digital 2
-//          DATA pin   -> Arduino Digital 3
-//          CLK pin  -> Arduino Digital 4
+  Arduino Uno
+
+
+  DS1302 :  RST pin    -> Arduino Digital 2
+            DATA pin   -> Arduino Digital 3
+            CLK pin    -> Arduino Digital 4
+
+  HC-05 :   TX pin     -> Arduino Digital 10 
+
+
+  TS1637 :  CLK PIN    -> Arduino Digital 5 
+            DIO PIN    -> Arduino Digital 6 
+  
+
+*/
+
+
 
 #include <DS1302.h>
 #include <Wire.h>
